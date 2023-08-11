@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AvatarCreator</title>
+        <item>
+            <title>1.0.0.111</title>
+            <pubDate>Fri, 11 Aug 2023 10:54:02 +0530</pubDate>
+            <sparkle:minimumSystemVersion>11.5.1</sparkle:minimumSystemVersion>
+            <enclosure url="AvatarCreator.plugin.zip" sparkle:version="111" sparkle:shortVersionString="1.0.0.111" length="1232778" type="application/octet-stream" sparkle:edSignature="Z/r54EKLVWktO3uM/G5IiUrOUICGoeA7DwqHjTUD00LSPwSYYB+AUOlG9LG+UOO99XNh1tuzPvW5y/0QCb3sCA=="/>
+        </item>
+    </channel>
+</rss>
