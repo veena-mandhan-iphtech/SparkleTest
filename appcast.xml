@@ -3,10 +3,10 @@
     <channel>
         <title>AvatarCreator</title>
         <item>
-            <title>1.0.0.111</title>
-            <pubDate>Fri, 11 Aug 2023 10:54:02 +0530</pubDate>
+            <title>1.0.0.112</title>
+            <pubDate>Fri, 11 Aug 2023 11:39:56 +0530</pubDate>
             <sparkle:minimumSystemVersion>11.5.1</sparkle:minimumSystemVersion>
-            <enclosure url="AvatarCreator.plugin.zip" sparkle:version="111" sparkle:shortVersionString="1.0.0.111" length="1232778" type="application/octet-stream" sparkle:edSignature="Z/r54EKLVWktO3uM/G5IiUrOUICGoeA7DwqHjTUD00LSPwSYYB+AUOlG9LG+UOO99XNh1tuzPvW5y/0QCb3sCA=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/blob/main/AvatarCreator.plugin.zip" sparkle:version="112" sparkle:shortVersionString="1.0.0.112" length="1232857" type="application/octet-stream" sparkle:edSignature="dExBsogLRLPkdEnhqhVcm/Bamm4SzJD3Y4HWy6bMKM6YZI6wkYac0ZxKxpLG5QfkwI8P2BLxD37LpLE4A3WXBA=="/>
         </item>
     </channel>
 </rss>
