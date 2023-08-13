@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Skeleton</title>
+        <title>AvatarCreator</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 13 Aug 2023 20:59:37 +0530</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/1/Skeleton.plugin.zip" length="884552" type="application/octet-stream" sparkle:edSignature="z0av7Tx5KO1AS0/Zq0GRai3APJ9cZDwnPL/kPZDXbO3bhdLAmwFmpqYd1k4VzygcEvYbassWbLAgW0/rnDdkBg=="/>
+            <title>1.0.0</title>
+            <pubDate>Mon, 14 Aug 2023 02:52:54 +0530</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/veena-mandhan-iphtech/SparkleTest/main/AvatarCreator.plugin.zip" length="1272413" type="application/octet-stream" sparkle:edSignature="rZXfnO8SGk7Uj99HXOkBAiAWverIrIhjCMOWUJA0iKhIkyoKDfL7MsyWKwoJtVfsblTyKzg+SpCh55z6+7GrDg=="/>
         </item>
     </channel>
 </rss>
