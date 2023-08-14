@@ -8,7 +8,7 @@
             <sparkle:version>268</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <pubDate>Sat, 12 Aug 2023 02:45:39 -0500</pubDate>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/3/Avatar.Creator.Adobe.Distribution.Installer_macos_1.0.1.268.pkg" length="644707820" type="application/octet-stream" sparkle:edSignature=""/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/3/Avatar.Creator.Adobe.Distribution.Installer_macos_1.0.1.268.pkg" length="644707820" type="application/octet-stream" sparkle:edSignature="Ky9zDZ7nldta/grbt+PeVpgMt7ERwgO8FzBvr8mqdctdwFVcNhWnjqp9nBE4vM8WF7LGT+w+kMkhwRDqHJ3HCQ=="/>
         </item>
     </channel>
 </rss>
