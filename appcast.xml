@@ -8,7 +8,7 @@
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/2/AvatarCreator.plugin.zip" length="1272413" type="application/octet-stream" sparkle:edSignature="rZXfnO8SGk7Uj99HXOkBAiAWverIrIhjCMOWUJA0iKhIkyoKDfL7MsyWKwoJtVfsblTyKzg+SpCh55z6+7GrDg=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/1/Skeleton.plugin.zip" length="1272413" type="application/octet-stream" sparkle:edSignature="rZXfnO8SGk7Uj99HXOkBAiAWverIrIhjCMOWUJA0iKhIkyoKDfL7MsyWKwoJtVfsblTyKzg+SpCh55z6+7GrDg=="/>
         </item>
     </channel>
 </rss>
