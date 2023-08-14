@@ -3,7 +3,7 @@
     <channel>
         <title>AvatarCreator</title>
         <item>
-            <title>1.0.0</title>
+            <title>1.0.1</title>
             <pubDate>Mon, 14 Aug 2023 19:57:55 +0530</pubDate>
             <sparkle:minimumSystemVersion>11.5.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/veena-mandhan-iphtech/SparkleTest/releases/download/3/Avatar.Creator.Adobe.Distribution.Installer_macos_1.0.1.268.pkg" sparkle:version="0.8" sparkle:shortVersionString="1.0.0" length="1251546" type="application/octet-stream" sparkle:edSignature="ZUcwo4yC3lUIMYb1szkuhYiyRZ14PtCi9z38yFH7Q7gXuil+Quo/lMCoQVM1zIt3L55O+M/OQOtJGDTYS89OAw=="/>
